@@ -1,5 +1,14 @@
 ---
-title: "ajamesrainey"
+title: "James Rainey"
+image: facebook.png
+about:
+  template: jolla
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:raineyatsea@gmail.com
 ---
 
 This is a Quarto website.
